@@ -40,7 +40,7 @@ Map Graph:
 <iframe src="nyc_water_site_map.html" height="500" width="500"></iframe>
 
 You can explore this map [as its own web page here](nyc_water_site_map.html)
-
+[a link](/nyc_water_site_map.html)
 Model Performance Plots:
 ![probablity density histogram](/plots/tpr.png)
 ![probablity density histogram](/plots/precision_vs_recall.png)
