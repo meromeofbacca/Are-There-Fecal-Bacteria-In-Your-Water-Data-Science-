@@ -229,6 +229,6 @@ def main():
     tpr_graph(precision, recall, threshold)
     pr_graph(precision, recall)
     cfmx_visual(cfmx)
-
+    print(df)
 if __name__ == "__main__":
     main()
